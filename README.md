@@ -24,7 +24,7 @@
 
 | Curso / Tema                                         | Estado           | Duración    | Recursos asociados                  |
 | ---------------------------------------------------- | ---------------- | ----------- | ----------------------------------- |
-| Técnicas Digitales III (TDIII)                       | 🔵 *In progress* | 1 año       | *UTN‑FRBA / TDIII material oficial* |
+| Técnicas Digitales III (TDIII)                       | 🔴 *To do*       | 1 año       | *UTN‑FRBA / TDIII material oficial* |
 | Arquitectura de computadoras (Von Neumann / Harvard) | 🔴 *To do*       | *to define* | *to define*                         |
 | Curso de armado de PC / arquitectura general         | 🔴 *To do*       | *to define* | *to define*                         |
 
