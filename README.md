@@ -7,8 +7,8 @@
 
 ## Unidad básica  🔧
 
-| Curso / Tema                                                                                                                                                  | Estado                                                                                                                  | Duración    | Recursos asociados                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------ |
+| Curso / Tema| Estado | Duración    | Recursos asociados |
+| ----------- | --------- | ----------- | ---------- |
 | Embedded C Programming Design Patterns | 🔵 *In progress* | ~6 h | [Udemy](https://www.udemy.com/course/embedded-c-programming-design-patterns/) |
 | Design Patterns in Modern C++ | 🔴 *To do* | \~8 h | [Udemy](https://www.udemy.com/course/patterns-cplusplus/) |
 | Ultimate Embedded Firmware DevOps Infrastructure | 🔴 *To do* | \~3 h | [Udemy](https://www.udemy.com/course/ultimate-embedded-firmware-devops-infrastructure/) |
@@ -36,7 +36,7 @@
 | ----------------------- | ------------------------------------------------------------------------------------------------------ | ----------- | ----------------------------------------------------------------------------------------- |
 | MQTT                    | 🔴 *To do*                                                                                             | *to define* | *to define*                                                                               |
 | Bases de datos SQL      | 🔵 *In progress* | \~40 h | [Udemy](https://www.udemy.com/course/iot-full-project-course/?couponCode=25BBPMXINACTIVE)|
-|       | 🔵 *In progress* | 9 h | [ESP‑IDF / FreeRTOS](https://www.udemy.com/course/iot-application-development-with-the-esp32-using-the-esp-idf/) |
+|IoT Application Development with the ESP32 Using the ESP-IDF| 🔵 *In progress* | 9 h | [ESP‑IDF / FreeRTOS](https://www.udemy.com/course/iot-application-development-with-the-esp32-using-the-esp-idf/) |
 | IoT Full Project Course | 🔴 *To do* | \~6 h | [Udemy](https://www.udemy.com/course/iot-full-project-course/?couponCode=25BBPMXINACTIVE) |
 
 ---
